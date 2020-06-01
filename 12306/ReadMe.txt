@@ -1,0 +1,2 @@
+基于javaSWT来构建的界面
+功能比较完善,注意elipse要安装SWT的插件,如果没有就要导入SWT相关的jar包
