@@ -1,0 +1,243 @@
+body {
+	width: 1250px;
+	height: 1250px;
+	color: red;
+}
+
+.left {
+	width: 200px;
+	height: 900px;
+	color: red;
+	float: left;
+}
+
+.left ul {
+	/*将自身的风格去掉*/
+	list-style: none;
+	margin: auto;
+	margin-top: 22px;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+}
+
+.left ul li {
+	/*上右下左*/
+	padding: 12px 0px 12px 0px;
+}
+
+.right {
+	width: 716px;
+	height: 174px;
+	float: left;
+}
+
+.right .head {
+	float: left;
+	display: block;
+	width: 52px;
+	height: 52px;
+	margin-right: 13px;
+	margin-left: 12px;
+	position: relative;
+	border: 2px solid #FFF;
+	border-radius: 50%;
+	overflow: hidden;
+}
+
+.head-top {
+	font-family: tahoma, arial, 'Hiragino Sans GB', 'Microsoft YaHei', 宋体, sans-serif;
+	vertical-align: middle;
+	color: #546d7e;
+	height: 57px;
+	width: 696px;
+	padding: 10px;
+	background: #f5f8fa;
+	border-bottom: 1px solid #e4eaee;
+	line-height: 23px;
+	padding-top: 11px;
+	padding-bottom: 8px;
+	*padding-bottom: 10px;
+}
+
+.right ul {
+	margin-top: -2px;
+	width: 33%;
+	display: inline;
+	float: left;
+	margin-left: -40px;
+}
+
+.right ul li {
+	list-style: none;
+}
+
+.name {
+	color: #000;
+	outline: 0;
+	cursor: pointer;
+}
+
+.left1 {
+	float: left;
+	width: 33%;
+}
+
+.center a {
+	float: left;
+	margin: 17px 23px 15px 23px;
+	zoom: 1;
+	cursor: pointer;
+	position: relative;
+	z-index: 2;
+	display: block;
+	padding: 10px 0;
+	color: #546d7e;
+	text-align: center;
+	font-size: 13px;
+}
+
+.head-last {
+	border: 1px solid red;
+	width: 716px;
+	height: 36px;
+	float: left;
+	margin-top: -9px;
+	background-color: #f5f8fa;
+	;
+}
+
+.head-last>div {
+	float: left;
+	margin: 13px 12px 1px 35px;
+	color: #4b4b4b;
+	border-right: 1px solid red;
+	padding: 2px 86px 1px 1px;
+	font-size: 13px;
+}
+
+.head-last div:last-child {
+	border: none;
+}
+
+.manger-addr {
+	position: fixed;
+	width: 272px;
+	height: 135px;
+	top: 103px;
+	left: 29%;
+	background: rgba(0, 0, 0, 0.8);
+}
+
+#manger-addr .citys {
+	margin-bottom: 10px;
+	margin: auto;
+}
+
+#manger-addr .citys p {
+	margin: 0px 0px 1px 1px;
+}
+
+#manger-addr .citys p select {
+	line-height: 28px;
+	width: 87px;
+	height: 19px;
+}
+
+#demo .sub {
+	margin: 1px 13px -4px 112px;
+}
+
+#demo span {
+	float: right;
+	display: block;
+	width: 25px;
+	height: 25px;
+	color: #fff;
+	border: 1px solid #fff;
+	border-radius: 50%;
+	margin: 2px 0PX 2px 1px;
+	text-align: center;
+	line-height: 25px;
+	color: red;
+}
+
+.showaddr {
+	width: 717px;
+	height: 550px;
+	float: left;
+	margin: -59px 1px 1px 1px;
+}
+
+.showaddr table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+	background: #fff;
+	box-sizing: border-box;
+	line-height: 16px;
+}
+
+.showaddr table tr div {
+	font-size: 13px;
+}
+
+.showaddr table td {
+	border-top-width: 0;
+	padding: 0;
+	border: 1px solid #dcdee3;
+	text-align: center;
+}
+
+.next {
+	padding: 12px 16px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	word-break: break-all;
+}
+
+.nextlast {
+	display: block;
+	width: 54px;
+	height: 21px;
+	line-height: 30px;
+	text-align: center;
+	border: 1px solid #ff5000;
+	border-radius: 3px;
+	background: #ffd6cc;
+	color: #f30;
+	margin: 7px 5px 7px 5px;
+}
+.find{
+	box-sizing: border-box;
+    display: inline-block;
+    height: 22px;
+    vertical-align: middle;
+    border: 1px solid #bfbfbf;
+    margin: 5px 4px 6px 6px;
+}
+.find-button{
+	    margin-right: 12px;
+    padding: 0 16px;
+    background-color: #f5f5f5;
+    border-left: none;
+      margin: 8px 10px 6px 12px;
+}
+.showaddr form{
+	 margin: 0;
+    padding: 0;
+}
+.all{
+	margin: 10px 0;
+    background-color: #f5f5f5;
+    text-align: center;
+    border: 0;
+}
+.all tr td{
+	border: 0;
+	margin: 1px 1px 1px 1px;
+	padding: 11px 1px 1px 1px;
+	border-bottom: 1px solid #DCDEE3;
+}
