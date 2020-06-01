@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.osgi_3.10.102.v20160118-1700.jar" sourcepath="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.osgi_3.10.102.v20160118-1700.jar"/>
+	<classpathentry kind="lib" path="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.core.commands_3.7.0.v20150422-0725.jar" sourcepath="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.core.commands_3.7.0.v20150422-0725.jar"/>
+	<classpathentry kind="lib" path="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.equinox.common_3.7.0.v20150402-1709.jar" sourcepath="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.equinox.common_3.7.0.v20150402-1709.jar"/>
+	<classpathentry kind="lib" path="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar" sourcepath="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar"/>
+	<classpathentry kind="lib" path="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.core.runtime_3.11.1.v20150903-1804.jar" sourcepath="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.core.runtime_3.11.1.v20150903-1804.jar"/>
+	<classpathentry kind="lib" path="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.text_3.5.400.v20150505-1044.jar" sourcepath="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.text_3.5.400.v20150505-1044.jar"/>
+	<classpathentry kind="lib" path="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.104.2.v20160212-1350.jar" sourcepath="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.104.2.v20160212-1350.jar"/>
+	<classpathentry kind="lib" path="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.jface_3.11.1.v20160128-1644.jar" sourcepath="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.jface_3.11.1.v20160128-1644.jar"/>
+	<classpathentry kind="lib" path="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.jface.text_3.10.0.v20150603-1752.jar" sourcepath="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.jface.text_3.10.0.v20150603-1752.jar"/>
+	<classpathentry kind="lib" path="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.ui.workbench_3.107.1.v20160120-2131.jar" sourcepath="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.ui.workbench_3.107.1.v20160120-2131.jar"/>
+	<classpathentry kind="lib" path="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/com.ibm.icu_54.1.1.v201501272100.jar" sourcepath="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/com.ibm.icu_54.1.1.v201501272100.jar"/>
+	<classpathentry kind="lib" path="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.ui.forms_3.6.200.v20150506-2029.jar" sourcepath="D:/新建文件夹 在 192.168.15.50 上/eclipse/plugins/org.eclipse.ui.forms_3.6.200.v20150506-2029.jar"/>
+	<classpathentry kind="lib" path="lib/com.ibm.icu_3.8.1.v20080530.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.commands_3.4.0.I20080509-2000.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.runtime_3.4.0.v20080512.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.equinox.common_3.4.0.v20080421-2006.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.equinox.registry_3.4.0.v20080516-0950.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jface_3.4.2.M20090107-0800.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jface.text_3.4.2.r342_v20081119-0800.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.osgi_3.4.3.R34x_v20081215-1030.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.swt.win32.win32.x86_3.4.1.v3452b.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.text_3.4.0.v20080605-1800.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.ui.forms_3.3.103.v20081027_34x.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.ui.workbench_3.4.2.M20090127-1700.jar"/>
+	<classpathentry kind="lib" path="src/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="lib/mail.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/Users/mac/Documents/workspace7/SpringMvc_1/mysql-5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
